@@ -18,10 +18,6 @@
 
 ## 💼 Featured Projects
 
-### 📐 AutoCAD Automation Toolkit  
-Python-based scripts for automating fiber layout, label generation, and toby placement in AutoCAD  
-*→ Coming soon…*
-
 ### ⚙️ Low-Latency C++ Engine  
 C++17 high-performance backend engine using STL and Boost for real-time processing  
 *→ Coming soon…*
